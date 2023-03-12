@@ -1,10 +1,10 @@
 <h1>Hi, I'm<a href="https://www.linkedin.com/in/abelardo-alfaro/">  Abelardo</a>!
-<br/>Engineer I Futurist, Technologist & Data enthusiast
+<br/> <br/> Futurist, Technologist & Data enthusiast
 
 <h2>👨‍💻 Data Analyst Projects:</h2>
 
 - <b>SQL</b>
-  - [Praciting DS & Algos in Python](https://github.com/Abelardo-Alfaro)
+  - [Essential SQL Training - Missing Money Matters](https://github.com/Abelardo-Alfaro/SQL---WSDA-Music-analysis-)
   
 - <b>Python</b>
   - [Praciting DS & Algos in Python](https://github.com/Abelardo-Alfaro)
@@ -19,7 +19,7 @@
   - [Praciting DS & Algos in Python](https://github.com/Abelardo-Alfaro)
   
 
-<h2>👨‍💻 Certrifications:</h2>
+<h2>🌱 Certrifications:</h2>
 
 - <b> SQL Essentials - [LinkedIn](https://www.linkedin.com/learning/certificates/e85489892bd00244831ea57928a19272c9bd43eeab026c47641e92bee2849693) </b>
 - <b> Crash course Python - [Google](https://www.coursera.org/account/accomplishments/verify/ZTEDECBBRKD7) </b>
