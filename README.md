@@ -7,7 +7,7 @@
   - [Essential SQL Training - Missing Money Matters](https://github.com/Abelardo-Alfaro/SQL---WSDA-Music-analysis-)
   
 - <b>Python</b>
-  - [Random number guessing game](https://github.com/Abelardo-Alfaro)
+  - [Random Number Guessing Game](https://github.com/Abelardo-Alfaro)
  
 - <b>R</b>
   - [Praciting DS & Algos in Python](https://github.com/Abelardo-Alfaro)
