@@ -10,7 +10,7 @@
   - [Random Number Guessing Game](https://github.com/Abelardo-Alfaro/Python-Random-Number-Guessing-Game-)
   - [Python-Chatgpt API](https://github.com/Abelardo-Alfaro/Python-Chatgpt-)
  
-- <b>R</b>
+- <b>Cognos</b>
   - [Praciting DS & Algos in Python](https://github.com/Abelardo-Alfaro)
   
 - <b>PowerBi</b>
@@ -23,8 +23,8 @@
 <h2>🌱 Certrifications:</h2>
 
 - <b> SQL Essentials - [LinkedIn](https://www.linkedin.com/learning/certificates/e85489892bd00244831ea57928a19272c9bd43eeab026c47641e92bee2849693) </b>
-- <b> Crash course Python - [Google](https://www.coursera.org/account/accomplishments/verify/ZTEDECBBRKD7) </b>
-- <b> Crash course Python - [Google](https://www.coursera.org/account/accomplishments/verify/ZTEDECBBRKD7) </b>
+- <b> Crash course Python - [Google](https://www.coursera.org/account/accomplishments/certificate/ZTEDECBBRKD7) </b>
+- <b> Data Visualization & Dashboards w/ Cognos - [IBM](https://www.coursera.org/account/accomplishments/certificate/5DZM7RYH3CTD) </b>
 
 
 <h2>📺 Popular YouTube Videos</h2>
