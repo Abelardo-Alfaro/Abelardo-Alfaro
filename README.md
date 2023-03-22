@@ -20,10 +20,10 @@
 
 <h2>🌱 Certrifications:</h2>
 
-- <b> SQL Essentials - [LinkedIn](https://www.linkedin.com/learning/certificates/e85489892bd00244831ea57928a19272c9bd43eeab026c47641e92bee2849693) </b>
-- <b> Crash course Python - [Google](https://www.coursera.org/account/accomplishments/certificate/ZTEDECBBRKD7) </b>
-- <b> Data Visualization & Dashboards w/ Cognos - [IBM](https://www.coursera.org/account/accomplishments/certificate/5DZM7RYH3CTD) </b>
-- <b> Excel for Data Analysis - [IBM](https://www.coursera.org/account/accomplishments/certificate/7VMTV2M9M9JG) </b>
+- <b> SQL - SQL Essentials - [LinkedIn](https://www.linkedin.com/learning/certificates/e85489892bd00244831ea57928a19272c9bd43eeab026c47641e92bee2849693) </b>
+- <b> Python - Crash course Python - [Google](https://www.coursera.org/account/accomplishments/certificate/ZTEDECBBRKD7) </b>
+- <b> Cognos - Data Visualization & Dashboards w/ Cognos - [IBM](https://www.coursera.org/account/accomplishments/certificate/5DZM7RYH3CTD) </b>
+- <b> Excel - Excel for Data Analysis - [IBM](https://www.coursera.org/account/accomplishments/certificate/7VMTV2M9M9JG) </b>
 - <b> Data Analysis & Visualization Foundations - [IBM](https://www.coursera.org/account/accomplishments/specialization/certificate/9FAXK82PFCFB) </b>
 <!--
 <h2>📺 Popular YouTube Videos</h2>
