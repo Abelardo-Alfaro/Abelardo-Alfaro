@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/dXS7kyz.png" width="1200" height="290">
+<img src="https://i.imgur.com/djyNdZX.png" width="1200" height="320">
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAbelardo-Alfaro&count_bg=%2379C83D&title_bg=%23555555&icon=bilibili.svg&icon_color=%23E7E7E7&title=Profile+views&edge_flat=false"/></a>
 
