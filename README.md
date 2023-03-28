@@ -7,8 +7,8 @@
   - [Essential SQL Training - Missing Money Matters](https://github.com/Abelardo-Alfaro/SQL---WSDA-Music-analysis-)
   
 - <b>Python</b>
-  - [Random Number Guessing Game](https://github.com/Abelardo-Alfaro/Python-Random-Number-Guessing-Game-)
-  - [Python-Chatgpt API](https://github.com/Abelardo-Alfaro/Python-Chatgpt-)
+  - [Game - Random Number Guessing Game](https://github.com/Abelardo-Alfaro/Python-Random-Number-Guessing-Game-)
+  - [API - Python-Chatgpt](https://github.com/Abelardo-Alfaro/Python-Chatgpt-)
  
 - <b>BI Tools</b>
   - [IBM Cognos - Analytic BI tool](https://github.com/Abelardo-Alfaro/IBM-Cognos-Analytic-BI-tool)
