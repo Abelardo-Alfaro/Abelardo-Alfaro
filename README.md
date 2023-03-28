@@ -24,7 +24,7 @@
   - [PAD - Webscrapping & file generation robot](https://github.com/Abelardo-Alfaro)
   
 
-<h2>🌱 Certrifications:</h2>
+<h2>🌱 Certifications:</h2>
 
 - <b> SQL - SQL Essentials - [LinkedIn](https://www.linkedin.com/learning/certificates/e85489892bd00244831ea57928a19272c9bd43eeab026c47641e92bee2849693) </b>
 - <b> Python - Crash course Python - [Google](https://www.coursera.org/account/accomplishments/certificate/ZTEDECBBRKD7) </b>
