@@ -1,4 +1,9 @@
-<h1>Hi, I'm<a href="https://www.linkedin.com/in/abelardo-alfaro/">  Abelardo</a>!
+
+[![MasterHead](https://my.visme.co/view/016m6mx6-untitled-project.gif)]()
+
+[![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
+
+<h1>Hi, I'm<a href="https://www.linkedin.com/in/abelardo-alfaro/">  Abelardo</a>! 👋
 <br/> <br/> Futurist, Technologist & Data enthusiast
 
 <h2>👨‍💻 Data Analyst Projects:</h2>
@@ -24,9 +29,12 @@
 
 - <b> SQL - SQL Essentials - [LinkedIn](https://www.linkedin.com/learning/certificates/e85489892bd00244831ea57928a19272c9bd43eeab026c47641e92bee2849693) </b>
 - <b> Python - Crash course Python - [Google](https://www.coursera.org/account/accomplishments/certificate/ZTEDECBBRKD7) </b>
+- <b> Python - Python for Data Science, AI, & Development  - [IBM](https://www.coursera.org/account/accomplishments/certificate/QP22EM2QURBM) </b>
+- <b> Python - Python Project for Data Science - [IBM](https://www.coursera.org/account/accomplishments/certificate/R7QUBJDQP5M4) </b>
 - <b> Cognos - Data Visualization & Dashboards w/ Cognos - [IBM](https://www.coursera.org/account/accomplishments/certificate/5DZM7RYH3CTD) </b>
 - <b> Excel - Excel for Data Analysis - [IBM](https://www.coursera.org/account/accomplishments/certificate/7VMTV2M9M9JG) </b>
 - <b> Data Analysis & Visualization Foundations - [IBM](https://www.coursera.org/account/accomplishments/specialization/certificate/9FAXK82PFCFB) </b>
+
 <!--
 <h2>📺 Popular YouTube Videos</h2>
 
@@ -34,16 +42,9 @@
 -->
 
 <h2> 🤳 Connect with me:</h2>
-<!--
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
-<!--
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/ -->
-[LinkedIn]: https://www.linkedin.com/in/abelardo-alfaro/
+
+- <b>[LinkedIn]: https://www.linkedin.com/in/abelardo-alfaro/ </b>
+- <b>[e-mail]: abe.alfaro1@gmail.com 📫</b>
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
