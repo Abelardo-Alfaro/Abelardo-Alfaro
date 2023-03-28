@@ -1,7 +1,7 @@
 <h1>Hi, I'm<a href="https://www.linkedin.com/in/abelardo-alfaro/">  Abelardo</a>!
 <br/> <br/> Futurist, Technologist & Data enthusiast
 
-<h2>👨‍💻 Data Analyst Projects:</h2>
+<h2>👨‍💻 Data Projects:</h2>
 
 - <b>SQL</b>
   - [Essential SQL Training - Missing Money Matters](https://github.com/Abelardo-Alfaro/SQL---WSDA-Music-analysis-)
