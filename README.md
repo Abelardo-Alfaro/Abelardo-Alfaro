@@ -1,7 +1,6 @@
+<img src="https://i.imgur.com/dXS7kyz.png" width="1200" height="290">
 
-[![MasterHead](https://my.visme.co/view/016m6mx6-untitled-project.gif)]()
-
-[![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAbelardo-Alfaro&count_bg=%2379C83D&title_bg=%23555555&icon=bilibili.svg&icon_color=%23E7E7E7&title=Profile+views&edge_flat=false"/></a>
 
 <h1>Hi, I'm<a href="https://www.linkedin.com/in/abelardo-alfaro/">  Abelardo</a>! 👋
 <br/> <br/> Futurist, Technologist & Data enthusiast
@@ -46,6 +45,9 @@
 - <b>[LinkedIn]: https://www.linkedin.com/in/abelardo-alfaro/ </b>
 - <b>[e-mail]: abe.alfaro1@gmail.com 📫</b>
 
+[![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
+
+  
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
