@@ -9,6 +9,7 @@
 - <b>Python</b>
   - [Game - Random Number Guessing Game](https://github.com/Abelardo-Alfaro/Python-Random-Number-Guessing-Game-)
   - [API - Python-Chatgpt](https://github.com/Abelardo-Alfaro/Python-Chatgpt-)
+  - [Jupyter Notebook lab - Webscrapping](https://github.com/Abelardo-Alfaro/Python-Jupyter-Notebook-Webscrapping))
  
 - <b>BI Tools</b>
   - [IBM Cognos - Analytic BI tool](https://github.com/Abelardo-Alfaro/IBM-Cognos-Analytic-BI-tool)
