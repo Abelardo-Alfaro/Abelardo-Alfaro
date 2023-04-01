@@ -26,7 +26,7 @@
 
 <h2>🌱 Certifications:</h2>
 
-- <b> IBM Professional Data Analyst certificate [Coursera](https://www.coursera.org/professional-certificates/ibm-data-analyst) </b>
+- <b> IBM Professional Data Analyst certificate - [Coursera](https://www.coursera.org/professional-certificates/ibm-data-analyst) </b>
     - <b> Python for Data Science, AI, & Development  - [IBM](https://www.coursera.org/account/accomplishments/certificate/QP22EM2QURBM) </b>
     - <b> Python Project for Data Science - [IBM](https://www.coursera.org/account/accomplishments/certificate/R7QUBJDQP5M4) </b>
     - <b> Data Visualization & Dashboards w/ Cognos - [IBM](https://www.coursera.org/account/accomplishments/certificate/5DZM7RYH3CTD) </b>
