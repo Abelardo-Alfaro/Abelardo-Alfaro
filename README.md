@@ -26,13 +26,14 @@
 
 <h2>🌱 Certifications:</h2>
 
-- <b> SQL - SQL Essentials - [LinkedIn](https://www.linkedin.com/learning/certificates/e85489892bd00244831ea57928a19272c9bd43eeab026c47641e92bee2849693) </b>
-- <b> Python - Crash course Python - [Google](https://www.coursera.org/account/accomplishments/certificate/ZTEDECBBRKD7) </b>
-- <b> Python - Python for Data Science, AI, & Development  - [IBM](https://www.coursera.org/account/accomplishments/certificate/QP22EM2QURBM) </b>
-- <b> Python - Python Project for Data Science - [IBM](https://www.coursera.org/account/accomplishments/certificate/R7QUBJDQP5M4) </b>
-- <b> Cognos - Data Visualization & Dashboards w/ Cognos - [IBM](https://www.coursera.org/account/accomplishments/certificate/5DZM7RYH3CTD) </b>
-- <b> Excel - Excel for Data Analysis - [IBM](https://www.coursera.org/account/accomplishments/certificate/7VMTV2M9M9JG) </b>
-- <b> Data Analysis & Visualization Foundations - [IBM](https://www.coursera.org/account/accomplishments/specialization/certificate/9FAXK82PFCFB) </b>
+- <b> IBM Professional Data Analyst certificate [Coursera](https://www.coursera.org/professional-certificates/ibm-data-analyst) </b>
+    - <b> Python for Data Science, AI, & Development  - [IBM](https://www.coursera.org/account/accomplishments/certificate/QP22EM2QURBM) </b>
+    - <b> Python Project for Data Science - [IBM](https://www.coursera.org/account/accomplishments/certificate/R7QUBJDQP5M4) </b>
+    - <b> Data Visualization & Dashboards w/ Cognos - [IBM](https://www.coursera.org/account/accomplishments/certificate/5DZM7RYH3CTD) </b>
+    - <b> Excel for Data Analysis - [IBM](https://www.coursera.org/account/accomplishments/certificate/7VMTV2M9M9JG) </b>
+    - <b> Data Analysis & Visualization Foundations - [IBM](https://www.coursera.org/account/accomplishments/specialization/certificate/9FAXK82PFCFB) </b>
+    - <b> Databases & SQL for Data Science with Python - [IBM](https://www.coursera.org/account/accomplishments/verify/DGEF9U8D2URQ)</b>
+  
 
 <!--
 <h2>📺 Popular YouTube Videos</h2>
