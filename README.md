@@ -18,7 +18,7 @@
  
 - <b>BI Tools</b>
   - [IBM Cognos - Analytic BI tool](https://github.com/Abelardo-Alfaro/IBM-Cognos-Analytic-BI-tool)
-  - [Power BI - Analytic BI tool](https://github.com/Abelardo-Alfaro)
+  - [Power BI - Analytic BI tool](https://github.com/Abelardo-Alfaro/Power-BI)
 
 - <b>Power Automated Desktop (PAD)</b>
   - [PAD - Webscrapping & file generation robot](https://github.com/Abelardo-Alfaro)
